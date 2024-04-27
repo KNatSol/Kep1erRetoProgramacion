@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "albumId": 1,
+        "name": "Connect-",
+        "caratulaVersion": "assets/images/versiones/FirstImpact/FirstImpactConnect.png"
+    },
+    {
+        "id": 2,
+        "albumId": 1,
+        "name": "Connect0",
+        "caratulaVersion": "assets/images/versiones/FirstImpact/FirstImpactConnect0.png"
+    },
+    {
+        "id": 3,
+        "albumId": 1,
+        "name": "Connect1",
+        "caratulaVersion": "assets/images/versiones/FirstImpact/FirstImpactConnect1.png"
+    },
+
+    {
+        "id": 4,
+        "albumId": 2,
+        "name": "Lemon",
+        "caratulaVersion": "assets/images/versiones/Doublast/DoublastLemon.png"
+    },
+    {
+        "id": 5,
+        "albumId": 2,
+        "name": "Blue",
+        "caratulaVersion": "assets/images/versiones/Doublast/DoublastBlue.png"
+    },
+    {
+        "id": 6,
+        "albumId": 2,
+        "name": "Jewel Blue",
+        "caratulaVersion": "assets/images/versiones/Doublast/DoublastJewelBlue.png"
+    },
+    {
+        "id": 7,
+        "albumId": 2,
+        "name": "Jewel Lemon",
+        "caratulaVersion": "assets/images/versiones/Doublast/DoublastJewelLemon.png"
+    },
+    {
+        "id": 8,
+        "albumId": 3,
+        "name": "Standar",
+        "caratulaVersion": "assets/images/versiones/FlyUp/FlyUpStandart.png"
+    },
+    {
+        "id": 9,
+        "albumId": 3,
+        "name": "Limited A",
+        "caratulaVersion": "assets/images/versiones/FlyUp/FlyUpLimitedA.png"
+    },
+    {
+        "id": 10,
+        "albumId": 3,
+        "name": "Limited B",
+        "caratulaVersion": "assets/images/versiones/FlyUp/FlyUpLimitedB.png"
+    },
+    {
+        "id": 11,
+        "albumId": 4,
+        "name": "DayDream",
+        "caratulaVersion": "assets/images/versiones/TroubleShooter/TroubleShooterDaydream.png"
+    },
+    {
+        "id": 12,
+        "albumId": 4,
+        "name": "Midnight",
+        "caratulaVersion": "assets/images/versiones/TroubleShooter/TroubleShooterMidnight.png"
+    },
+    {
+        "id": 13,
+        "albumId": 4,
+        "name": "K",
+        "caratulaVersion": "assets/images/versiones/TroubleShooter/TroubleShooterK.png"
+    },
+    {
+        "id": 14,
+        "albumId": 4,
+        "name": "Digipack",
+        "caratulaVersion": "assets/images/versiones/TroubleShooter/TroubleShooterDigipack.png"
+    },
+    {
+        "id": 15,
+        "albumId": 5,
+        "name": "Regular",
+        "caratulaVersion": "assets/images/versiones/FlyBy/FlyByRegular.png"
+    },
+    {
+        "id": 16,
+        "albumId": 5,
+        "name": "Limited A",
+        "caratulaVersion": "assets/images/versiones/FlyBy/FlyByLimitedA.png"
+    },
+    {
+        "id": 17,
+        "albumId": 5,
+        "name": "Limited B",
+        "caratulaVersion": "assets/images/versiones/FlyBy/FlyByLimitedB.png"
+    },
+    {
+        "id": 18,
+        "albumId": 6,
+        "name": "First Blush",
+        "caratulaVersion": "assets/images/versiones/Lovestruck/LoveStruckFirstBlush.png"
+    },
+    {
+        "id": 19,
+        "albumId": 6,
+        "name": "Eye Contact",
+        "caratulaVersion": "assets/images/versiones/Lovestruck/LoveStruckEyeContact.png"
+    },
+    {
+        "id": 20,
+        "albumId": 6,
+        "name": "Love Strike",
+        "caratulaVersion": "assets/images/versiones/Lovestruck/LoveStruckLoveStrike.png"
+    },
+    {
+        "id": 21,
+        "albumId": 6,
+        "name": "Digipack",
+        "caratulaVersion": "assets/images/versiones/Lovestruck/LoveStruckDigipack.png"
+    },
+    {
+        "id": 22,
+        "albumId": 7,
+        "name": "Beloved",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourBeloved.png"
+    },
+    {
+        "id": 23,
+        "albumId": 7,
+        "name": "Sunkissed",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourSunkissed.png"
+    },
+    {
+        "id": 24,
+        "albumId": 7,
+        "name": "Moonlighted",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourMoonlighted.png"
+    },
+    {
+        "id": 25,
+        "albumId": 7,
+        "name": "Tape",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourTape.png"
+    },
+    {
+        "id": 26,
+        "albumId": 7,
+        "name": "Tropical",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourTropical.png"
+    },
+    {
+        "id": 27,
+        "albumId": 7,
+        "name": "Platform",
+        "caratulaVersion": "assets/images/versiones/MagicHour/MagicHourPlatform.png"
+    },
+    {
+        "id": 28,
+        "albumId": 8,
+        "name": "Limited",
+        "caratulaVersion": "assets/images/versiones/FlyHigh/FlyHighLimited.png"
+    },
+    {
+        "id": 29,
+        "albumId": 8,
+        "name": "Standar",
+        "caratulaVersion": "assets/images/versiones/FlyHigh/FlyHighStandart.png"
+    }
+]

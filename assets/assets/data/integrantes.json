@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "orden": 1,
+        "name": "Yujin",
+        "carpeta": "assets/images/integrantes/yujin/Yujin",
+        "imagenPrincipal": "assets/images/integrantes/yujin/Yujin.jpg"
+    },
+    {
+        "id": 2,
+        "orden": 2,
+        "name": "Xiao Ting",
+        "carpeta": "assets/images/integrantes/xiaoting/Xiaoting",
+        "imagenPrincipal": "assets/images/integrantes/xiaoting/Xiaoting.jpg"
+    },
+    {
+        "id": 3,
+        "orden": 3,
+        "name": "Mashiro",
+        "carpeta": "assets/images/integrantes/mashiro/Mashiro",
+        "imagenPrincipal": "assets/images/integrantes/mashiro/Mashiro.jpg"
+    },
+    {
+        "id": 4,
+        "orden": 4,
+        "name": "Chae Hyun",
+        "carpeta": "assets/images/integrantes/chaehyun/Chaehyun",
+        "imagenPrincipal": "assets/images/integrantes/chaehyun/Chaehyun.jpg"
+    },
+    {
+        "id": 5,
+        "orden": 5,
+        "name": "Dayeon",
+        "carpeta": "assets/images/integrantes/dayeon/Dayeon",
+        "imagenPrincipal": "assets/images/integrantes/dayeon/Dayeon.jpg"
+    },
+    {
+        "id": 6,
+        "orden": 6,
+        "name": "Hikaru",
+        "carpeta": "assets/images/integrantes/hikaru/Hikaru",
+        "imagenPrincipal": "assets/images/integrantes/hikaru/Hikaru.jpg"
+    },
+    {
+        "id": 7,
+        "orden": 7,
+        "name": "Hiyyih",
+        "carpeta": "assets/images/integrantes/hiyyih/Hiyyih",
+        "imagenPrincipal": "assets/images/integrantes/hiyyih/Hiyyih.jpg"
+    },
+    {
+        "id": 8,
+        "orden": 8,
+        "name": "Young Eun",
+        "carpeta": "assets/images/integrantes/youngeun/Youngeun",
+        "imagenPrincipal": "assets/images/integrantes/youngeun/Youngeun.jpg"
+    },
+    {
+        "id": 9,
+        "orden": 9,
+        "name": "Ye Seo",
+        "carpeta": "assets/images/integrantes/yeseo/Yeseo",
+        "imagenPrincipal": "assets/images/integrantes/yeseo/Yeseo.jpg"
+    }
+]

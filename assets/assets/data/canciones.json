@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1,
+        "nombreCancion": "See The Light",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "1:52",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "czwscumbHQc",
+        "url": "https://www.youtube.com/watch?v=czwscumbHQc&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=1"
+    },
+    {
+        "id": 2,
+        "nombreCancion": "WA DA DA",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:18",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "n0j5NPptyM0",
+        "url": "https://www.youtube.com/watch?v=n0j5NPptyM0&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=2"
+
+    },
+    {
+        "id": 3,
+        "nombreCancion": "MvSK",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:11",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "Bea612WP2vw",
+        "url": "https://www.youtube.com/watch?v=Bea612WP2vw&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=3"
+    },
+    {
+        "id": 4,
+        "nombreCancion": "Shine",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:35",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "pcETCrR6TDU",
+        "url": "https://www.youtube.com/watch?v=pcETCrR6TDU&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=4"
+    },
+    {
+        "id": 5,
+        "nombreCancion": "Another Dream",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:22",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "DslYxttTWGg", 
+        "url": "https://www.youtube.com/watch?v=DslYxttTWGg&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=5"
+    },
+    {
+        "id": 6,
+        "nombreCancion": "O.O.O (Over & Over & Over)",
+        "albumId": 1,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "4:08",
+        "fechaLanzamiento": "2021-12-30",
+        "urlId": "lkWBFicE8EI",
+        "url": "https://www.youtube.com/watch?v=lkWBFicE8EI&list=OLAK5uy_lJVHV3DX00BTcrAdXK2zeqp8ZVoLFzaQ4&index=6"
+    },
+    {
+        "id": 7,
+        "nombreCancion": "Up!",
+        "albumId": 2,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:19",
+        "fechaLanzamiento": "2022-06-20",
+        "urlId": "hr-325mclek",
+        "url": "https://www.youtube.com/watch?v=hr-325mclek&list=OLAK5uy_kTkOZuNj6G1zf-aUdQu6JCnmOuLL82dIE&index=1"
+    },
+    {
+        "id": 8,
+        "nombreCancion": "Le Voya9e",
+        "albumId": 2,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:37",
+        "fechaLanzamiento": "2022-06-20",
+        "urlId": "XHuhvmNT0lU",
+        "url": "https://www.youtube.com/watch?v=XHuhvmNT0lU&list=OLAK5uy_kTkOZuNj6G1zf-aUdQu6JCnmOuLL82dIE&index=2"
+    },
+    {
+        "id": 9,
+        "nombreCancion": "Attention",
+        "albumId": 2,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:22",
+        "fechaLanzamiento": "2022-06-20",
+        "urlId": "3Hj_fLZ7b_s",
+        "url": "https://www.youtube.com/watch?v=3Hj_fLZ7b_s&list=OLAK5uy_kTkOZuNj6G1zf-aUdQu6JCnmOuLL82dIE&index=3"
+    },
+    {
+        "id": 10,
+        "nombreCancion": "Good Night",
+        "albumId": 2,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:09",
+        "fechaLanzamiento": "2022-06-20",
+        "urlId": "4Ux76qXyLoM",
+        "url": "https://www.youtube.com/watch?v=4Ux76qXyLoM&list=OLAK5uy_kTkOZuNj6G1zf-aUdQu6JCnmOuLL82dIE&index=4"
+    },
+    {
+        "id": 11,
+        "nombreCancion": "Rewind",
+        "albumId": 2,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:49",
+        "fechaLanzamiento": "2022-06-20",
+        "urlId": "eT9-XeJMsb8",
+        "url": "https://www.youtube.com/watch?v=eT9-XeJMsb8&list=OLAK5uy_kTkOZuNj6G1zf-aUdQu6JCnmOuLL82dIE&index=5"
+    },
+    {
+        "id": 12,
+        "nombreCancion": "Wing Wing",
+        "albumId": 3,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:23",
+        "fechaLanzamiento": "2022-09-07",
+        "urlId": "eK4i2oN8jCk",
+        "url": "https://www.youtube.com/watch?v=eK4i2oN8jCk&list=OLAK5uy_kc91FLPKeJ9y_1f0IOqITVQS8iT-a7hxY&index=1"
+    },
+    {
+        "id": 13,
+        "nombreCancion": "Daisy",
+        "albumId": 3,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:57",
+        "fechaLanzamiento": "2022-09-07",
+        "urlId": "5eyobz33zTk",
+        "url": "https://www.youtube.com/watch?v=5eyobz33zTk&list=OLAK5uy_kc91FLPKeJ9y_1f0IOqITVQS8iT-a7hxY&index=2"
+    },
+    {
+        "id": 14,
+        "nombreCancion": "Up!",
+        "albumId": 3,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:19",
+        "fechaLanzamiento": "2022-09-07",
+        "urlId": "hr-325mclek",
+        "url": "https://www.youtube.com/watch?v=hr-325mclek&list=OLAK5uy_kc91FLPKeJ9y_1f0IOqITVQS8iT-a7hxY&index=3"
+    },
+    {
+        "id": 15,
+        "nombreCancion": "WA DA DA",
+        "albumId": 3,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:18",
+        "fechaLanzamiento": "2022-09-07",
+        "urlId": "n0j5NPptyM0",
+        "url": "https://www.youtube.com/watch?v=n0j5NPptyM0&list=OLAK5uy_kc91FLPKeJ9y_1f0IOqITVQS8iT-a7hxY&index=4"
+    },
+    {
+        "id": 16,
+        "nombreCancion": "We Fresh",
+        "albumId": 4,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:45",
+        "fechaLanzamiento": "2022-10-12",
+        "urlId": "zkvIzKwzYNc",
+        "url": "https://www.youtube.com/watch?v=zkvIzKwzYNc&list=OLAK5uy_kCk79VvV6F3UfOmc8aqupvmLtbWdm40ws&index=1"
+    },
+    {
+        "id": 17,
+        "nombreCancion": "Lion Tamer",
+        "albumId": 4,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:03",
+        "fechaLanzamiento": "2022-10-12",
+        "urlId": "_-JFO8ZErRY",
+        "url": "https://www.youtube.com/watch?v=_-JFO8ZErRY&list=OLAK5uy_kCk79VvV6F3UfOmc8aqupvmLtbWdm40ws&index=2"
+    },
+    {
+        "id": 18,
+        "nombreCancion": "Downtown",
+        "albumId": 4,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:38",
+        "fechaLanzamiento": "2022-10-12",
+        "urlId": "p7YXbfvGzr8",
+        "url": "https://www.youtube.com/watch?v=p7YXbfvGzr8&list=OLAK5uy_kCk79VvV6F3UfOmc8aqupvmLtbWdm40ws&index=3"
+    },
+    {
+        "id": 19,
+        "nombreCancion": "Dreams",
+        "albumId": 4,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:32",
+        "fechaLanzamiento": "2022-10-12",
+        "urlId": "fOXuMHp0i14",
+        "url": "https://www.youtube.com/watch?v=fOXuMHp0i14&list=OLAK5uy_kCk79VvV6F3UfOmc8aqupvmLtbWdm40ws&index=4"
+    },
+    {
+        "id": 20,
+        "nombreCancion": "THE GIRLS",
+        "albumId": 4,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:59",
+        "fechaLanzamiento": "2022-10-12",
+        "urlId": "zZkPPrSGvpA",
+        "url": "https://www.youtube.com/watch?v=zZkPPrSGvpA&list=OLAK5uy_kCk79VvV6F3UfOmc8aqupvmLtbWdm40ws&index=5"
+    },
+    {
+        "id": 21,
+        "nombreCancion": "I do! Do you?",
+        "albumId": 5,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "4:01",
+        "fechaLanzamiento": "2023-03-15",
+        "urlId": "tJG13dtV464",
+        "url": "https://www.youtube.com/watch?v=tJG13dtV464&list=OLAK5uy_mQiJoatVgIgD63bTIJ4VzoQ5M7VFOmuLg&index=1"
+    },
+    {
+        "id": 22,
+        "nombreCancion": "tOgether fOrever",
+        "albumId": 5,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:32",
+        "fechaLanzamiento": "2023-03-15",
+        "urlId": "SHzvH2oeWMY",
+        "url": "https://www.youtube.com/watch?v=SHzvH2oeWMY&list=OLAK5uy_mQiJoatVgIgD63bTIJ4VzoQ5M7VFOmuLg&index=2"
+    },
+    {
+        "id": 23,
+        "nombreCancion": "We Fresh",
+        "albumId": 5,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:45",
+        "fechaLanzamiento": "2023-03-15",
+        "urlId": "zkvIzKwzYNc",
+        "url": "https://www.youtube.com/watch?v=zkvIzKwzYNc&list=OLAK5uy_mQiJoatVgIgD63bTIJ4VzoQ5M7VFOmuLg&index=3"
+    },
+    {
+        "id": 24,
+        "nombreCancion": "MVSK",
+        "albumId": 5,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:11",
+        "fechaLanzamiento": "2023-03-15",
+        "urlId": "v_0InfBdnbQ",
+        "url": "https://www.youtube.com/watch?v=v_0InfBdnbQ&list=OLAK5uy_mQiJoatVgIgD63bTIJ4VzoQ5M7VFOmuLg&index=4"
+    },
+    {
+        "id": 25,
+        "nombreCancion": "WA DA DA~IMLAY Remix",
+        "albumId": 5,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:17",
+        "fechaLanzamiento": "2023-03-15",
+        "urlId": "Vvr6gkvPDmA",
+        "url": "https://www.youtube.com/watch?v=Vvr6gkvPDmA&list=OLAK5uy_mQiJoatVgIgD63bTIJ4VzoQ5M7VFOmuLg&index=5"
+    },
+    {
+        "id": 26,
+        "nombreCancion": "Giddy",
+        "albumId": 6,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:16",
+        "fechaLanzamiento": "2023-04-06",
+        "urlId": "w9ueRzymcU0",
+        "url": "https://www.youtube.com/watch?v=w9ueRzymcU0&list=OLAK5uy_k_sZj_iWS4xNvw4jiqVBeQM0u9ouET03g&index=1"
+    },
+    {
+        "id": 27,
+        "nombreCancion": "LVLY",
+        "albumId": 6,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:20",
+        "fechaLanzamiento": "2023-04-06",
+        "urlId": "TLDaC5o4fMM",
+        "url": "https://www.youtube.com/watch?v=TLDaC5o4fMM&list=OLAK5uy_k_sZj_iWS4xNvw4jiqVBeQM0u9ouET03g&index=2"
+    },
+    {
+        "id": 28,
+        "nombreCancion": "Back to the City",
+        "albumId": 6,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:20",
+        "fechaLanzamiento": "2023-04-06",
+        "urlId": "kk-VikKT-pQ",
+        "url": "https://www.youtube.com/watch?v=kk-VikKT-pQ&list=OLAK5uy_k_sZj_iWS4xNvw4jiqVBeQM0u9ouET03g&index=3"
+    },
+    {
+        "id": 29,
+        "nombreCancion": "Why",
+        "albumId": 6,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:02",
+        "fechaLanzamiento": "2023-04-06",
+        "urlId": "2uiNo-AF6VQ",
+        "url": "https://www.youtube.com/watch?v=2uiNo-AF6VQ&list=OLAK5uy_k_sZj_iWS4xNvw4jiqVBeQM0u9ouET03g&index=4"
+    },
+    {
+        "id": 30,
+        "nombreCancion": "Happy Ending",
+        "albumId": 6,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:59",
+        "fechaLanzamiento": "2023-04-06",
+        "urlId": "nM_mja4_voQ",
+        "url": "https://www.youtube.com/watch?v=nM_mja4_voQ&list=OLAK5uy_k_sZj_iWS4xNvw4jiqVBeQM0u9ouET03g&index=5"
+    },
+    {
+        "id": 31,
+        "nombreCancion": "Galileo",
+        "albumId": 7,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:32",
+        "fechaLanzamiento": "2023-09-21",
+        "urlId": "_Uvi-FgAsy4",
+        "url": "https://www.youtube.com/watch?v=_Uvi-FgAsy4&list=OLAK5uy_mOz59lfsLjlsHPndIabepuuomDVUsz0RI&index=1"
+    },
+    {
+        "id": 32,
+        "nombreCancion": "The Door",
+        "albumId": 7,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:02",
+        "fechaLanzamiento": "2023-09-21",
+        "urlId": "b7CSYdHzQBs",
+        "url": "https://www.youtube.com/watch?v=b7CSYdHzQBs&list=OLAK5uy_mOz59lfsLjlsHPndIabepuuomDVUsz0RI&index=2"
+    },
+    {
+        "id": 33,
+        "nombreCancion": "Love on Lock",
+        "albumId": 7,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:52",
+        "fechaLanzamiento": "2023-09-21",
+        "urlId": "N3jv2RGhxYE",
+        "url": "https://www.youtube.com/watch?v=N3jv2RGhxYE&list=OLAK5uy_mOz59lfsLjlsHPndIabepuuomDVUsz0RI&index=3"
+    },
+    {
+        "id": 34,
+        "nombreCancion": "Tropical Light",
+        "albumId": 7,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:03",
+        "fechaLanzamiento": "2023-09-21",
+        "urlId": "LWSoGnmqbJw",
+        "url": "https://www.youtube.com/watch?v=LWSoGnmqbJw&list=OLAK5uy_mOz59lfsLjlsHPndIabepuuomDVUsz0RI&index=4"
+    },
+    {
+        "id": 32,
+        "nombreCancion": "TAPE",
+        "albumId": 7,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:52",
+        "fechaLanzamiento": "2023-09-21",
+        "urlId": "O2IwZ5asbd0",
+        "url": "https://www.youtube.com/watch?v=O2IwZ5asbd0&list=OLAK5uy_mOz59lfsLjlsHPndIabepuuomDVUsz0RI&index=5"
+    },
+    {
+        "id": 33,
+        "nombreCancion": "Grand Prix",
+        "albumId": 8,
+        "esCancionPrincipalDeAlbum": true,
+        "duracion": "3:17",
+        "fechaLanzamiento": "2023-11-22",
+        "urlId": "4nAdvTkoP1Q",
+        "url": "https://www.youtube.com/watch?v=4nAdvTkoP1Q&list=OLAK5uy_lzS8nGByPCYiXFmpM7Zpmbw0YrsaSi3k8&index=1"
+    },
+    {
+        "id": 34,
+        "nombreCancion": "Sugar",
+        "albumId": 8,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "2:35",
+        "fechaLanzamiento": "2023-11-22",
+        "urlId": "xII2E6r5Vow",
+        "url": "https://www.youtube.com/watch?v=xII2E6r5Vow&list=OLAK5uy_lzS8nGByPCYiXFmpM7Zpmbw0YrsaSi3k8&index=2"
+    },
+    {
+        "id": 35,
+        "nombreCancion": "Galileo",
+        "albumId": 8,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:32",
+        "fechaLanzamiento": "2023-11-22",
+        "urlId": "_Uvi-FgAsy4",
+        "url": "https://www.youtube.com/watch?v=_Uvi-FgAsy4&list=OLAK5uy_lzS8nGByPCYiXFmpM7Zpmbw0YrsaSi3k8&index=3"
+    },
+    {
+        "id": 36,
+        "nombreCancion": "Giddy",
+        "albumId": 8,
+        "esCancionPrincipalDeAlbum": false,
+        "duracion": "3:16",
+        "fechaLanzamiento": "2023-11-22",
+        "urlId": "w9ueRzymcU0",
+        "url": "https://www.youtube.com/watch?v=w9ueRzymcU0&list=OLAK5uy_lzS8nGByPCYiXFmpM7Zpmbw0YrsaSi3k8&index=4"
+    }
+    
+]

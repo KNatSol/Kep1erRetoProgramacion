@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "orden": 1,
+        "album": "First Impact",
+        "caratulaAlbum": "assets/images/albumes/FirstImpact.jpg"
+    },
+    {
+        "id": 2,
+        "orden": 2,
+        "album": "Doublast",
+        "caratulaAlbum": "assets/images/albumes/Doublast.jpg"
+    },
+    {
+        "id": 3,
+        "orden": 3,
+        "album": "Fly Up",
+        "caratulaAlbum": "assets/images/albumes/FlyUp.jpg"
+    },
+    {
+        "id": 4,
+        "orden": 4,
+        "album": "Troubleshooter",
+        "caratulaAlbum": "assets/images/albumes/TroubleShooter.jpg"
+    },
+    {
+        "id": 5,
+        "orden": 5,
+        "album": "Fly By",
+        "caratulaAlbum": "assets/images/albumes/FlyBy.jpg"
+    },
+    {
+        "id": 6,
+        "orden": 6,
+        "album": "LoveStruck!",
+        "caratulaAlbum": "assets/images/albumes/LoveStruck.jpg"
+    },
+    {
+        "id": 7,
+        "orden": 7,
+        "album": "Magic Hour",
+        "caratulaAlbum": "assets/images/albumes/MagicHour.jpg"
+    },
+    {
+        "id": 8,
+        "orden": 8,
+        "album": "Fly High",
+        "caratulaAlbum": "assets/images/albumes/FlyHigh.jpg"
+    }
+
+]
